@@ -4,6 +4,7 @@ sistema de login do fabiano
 # Descrição
 Este projeto é uma aplicação web simples que tem funções de login, criação, alteração e deletamento de uma conta pessoal.
 Foi feito usando Visual Studio, Mysql workbench, xampp e foi feito na linguagem PHP
+Autor: Henry wilson duarte gabriel e guilherme notoroberto herminelli perrota
 
 # Funcionalidades
 O programa:
